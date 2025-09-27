@@ -29,6 +29,8 @@ Farmhouse-Booking-System/
 │── server/ # Backend Express API
 │── README.md
 
+![image alt](https://github.com/mahnoorzia101/Farmhouse-Booking-Website/blob/49f69040f97182d091776f79ab94278976534ce1/Images/Home.png)
+
 
 ### Clone the repo
 ```bash
