@@ -29,7 +29,16 @@ Farmhouse-Booking-System/
 │── server/ # Backend Express API
 │── README.md
 
+
+
+
 ![image alt](https://github.com/mahnoorzia101/Farmhouse-Booking-Website/blob/49f69040f97182d091776f79ab94278976534ce1/Images/Home.png)
+![image alt](https://github.com/mahnoorzia101/Farmhouse-Booking-Website/blob/40ae5674343678d1ea81cf1d13cb5b2c1c014d54/Images/Featured%20Farms.png)
+![image alt](https://github.com/mahnoorzia101/Farmhouse-Booking-Website/blob/40ae5674343678d1ea81cf1d13cb5b2c1c014d54/Images/All%20farms.png)
+![image alt](https://github.com/mahnoorzia101/Farmhouse-Booking-Website/blob/40ae5674343678d1ea81cf1d13cb5b2c1c014d54/Images/Booking.png)
+![image alt](https://github.com/mahnoorzia101/Farmhouse-Booking-Website/blob/40ae5674343678d1ea81cf1d13cb5b2c1c014d54/Images/Experience.png)
+![image alt](https://github.com/mahnoorzia101/Farmhouse-Booking-Website/blob/40ae5674343678d1ea81cf1d13cb5b2c1c014d54/Images/Login.png)
+![image alt](https://github.com/mahnoorzia101/Farmhouse-Booking-Website/blob/40ae5674343678d1ea81cf1d13cb5b2c1c014d54/Images/About.png)
 
 
 ### Clone the repo
